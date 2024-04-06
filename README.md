@@ -18,7 +18,7 @@ Entusiasta de Machine Learning, Visão Computacional e Robótica🤖
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,figma" /> <br/>
-    <img src="https://skillicons.dev/icons?i=css,html,nodejs" /> <br/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,nodejs" /> <br/>
   </a>
 </div> 
 
