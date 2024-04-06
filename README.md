@@ -13,7 +13,10 @@ Entusiasta de Machine Learning, Visão Computacional e Robótica🤖
   </a>
 </div>  
 
+<div align="center">
+  
+  [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/rafael-torres-nantes/)](https://github.com/rafael-torres-nantes) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-torres-nantes-6437402b9/)](https://www.linkedin.com/in/rafael-torres-nantes-6437402b9/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:va014863@gmail.com)](mailto:rafatorresnantes.@gmail.com)
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/rafael-torres-nantes/)](https://github.com/rafael-torres-nantes) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-torres-nantes-6437402b9/)](https://www.linkedin.com/in/rafael-torres-nantes-6437402b9/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:va014863@gmail.com)](mailto:rafatorresnantes.@gmail.com)
+</div>  
