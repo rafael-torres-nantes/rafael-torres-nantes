@@ -3,15 +3,24 @@
 Sou estudante de Engenharia de Computação na [Universidade Federal do Mato Grosso do Sul (UFMS)](https://www.ufms.br/). 
 Entusiasta de Machine Learning, Visão Computacional e Robótica🤖
 
-## ⚙️ Ferramentas e Linguagens que utilizo
+## ⚙️ Ferramentas e Linguagens que manuseio
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,java" /> <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,postgresql" /> <br/>
-    <img src="https://skillicons.dev/icons?i=git,nodejs,vscode"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" /> <br/>
+    <img src="https://skillicons.dev/icons?i=java,js,postgresql" /> <br/>
+    <img src="https://skillicons.dev/icons?i=arduino,ubuntu,ros"/> <br/>
+    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode"/> <br/>
   </a>
 </div>  
+
+## 🚧 Aprendizado em Andamento
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,figma" /> <br/>
+    <img src="https://skillicons.dev/icons?i=css,html,nodejs" /> <br/>
+  </a>
+</div> 
 
 <div align="center">
   
