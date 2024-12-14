@@ -7,18 +7,18 @@ Entusiasta de Machine Learning, Visão Computacional e Robótica🤖
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp" /> <br/>
-    <img src="https://skillicons.dev/icons?i=java,js,postgresql" /> <br/>
+    <img src="https://skillicons.dev/icons?i=css,html,nodejs" /> <br/>
+    <img src="https://skillicons.dev/icons?i=bash,docker,git,github,vscode"/> <br/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" /> <br/>
+    <img src="https://skillicons.dev/icons?i=aws,postgresql" /> <br/>
     <img src="https://skillicons.dev/icons?i=arduino,ubuntu,ros"/> <br/>
-    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode"/> <br/>
   </a>
 </div>  
 
 ## 🚧 Aprendizado em Andamento
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,figma" /> <br/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,nodejs" /> <br/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma" /> <br/>
   </a>
 </div> 
 
