@@ -12,23 +12,64 @@ prevista em 2026), com publicação indexada na Nature Portfolio (Scientific Rep
 infraestrutura de IA para Kubernetes.
 🌱 **Base:** robótica e visão computacional, do tempo na AraraBots/RoboCup@Home (UFMS).
 
-## ⚙️ Stack atual
+---
 
-<br>
+## 🧠 Especialidades em IA
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,aws" /> <br/>
-    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,postgresql" /> <br/>
-    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode" /> <br/>
-  </a>
+
+[<img src="https://img.shields.io/badge/AWS-Bedrock-FF9900?logo=amazonaws&logoColor=white">](https://aws.amazon.com/bedrock/)
+[<img src="https://img.shields.io/badge/Amazon_Nova_Sonic-FF9900?logo=amazonaws&logoColor=white">](https://aws.amazon.com/bedrock/)
+[<img src="https://img.shields.io/badge/LangChain-005C84?logo=langchain&logoColor=white">](https://langchain.com/)
+[<img src="https://img.shields.io/badge/Anthropic-D97757?logo=anthropic&logoColor=white">](https://www.anthropic.com/)
+[<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?logo=googlegemini&logoColor=white">](https://gemini.google.com/)
+
 </div>
 
-## 🤖 Base — robótica e visão computacional
+## ⚙️ Stack — levantada a partir dos meus próprios repositórios
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,ros,ubuntu" /> <br/>
-  </a>
+
+**Linguagens**
+<br>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp" />
+
+**IA & Visão Computacional**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,scikitlearn" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
+
+**Web**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" />
+
+**Dados & Automação**
+<br>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,selenium" />
+
+**Ferramentas**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell" />
+
+</div>
+
+## 🤖 Base — robótica, visão computacional e hardware
+
+Anos na **AraraBots** (equipe de competição RoboCup@Home da UFMS): percepção visual,
+rastreamento de pose humana, reconhecimento de fala e sistemas embarcados em VHDL e
+microcontroladores (8051).
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,ros,ubuntu" />
+</div>
+
+## 📊 Atividade
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rafael-torres-nantes&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <div align="center">
